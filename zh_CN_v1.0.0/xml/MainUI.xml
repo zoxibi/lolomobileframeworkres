@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--核心UI配置文件-->
+<config>
+	<!--将与服务端通信的请求进行模态的界面-->
+	<requestModal properties='{"bgSemiModalAlpha":0.01, "bgModalAlpha":0.2, "hideEffectDuration":1, "hideEffectDelay":1}' >
+		<modalBG name="modalBG" />
+		<displayObject name="view" definition="mainUI.RequestModal" />
+		
+		<!--公用AlerText属性-->
+		<alertText patent="null" properties='{"key":"serviceError", "color":"0xCC3300", "alertLayerShow":true, "stroke":"0x282818"}' /> 
+		<alertText parent="null" properties='{"key":"common", "color":"0x00CC33", "alertLayerShow":true, "stroke":"0x282818"}' /> 
+	</requestModal>
+</config>

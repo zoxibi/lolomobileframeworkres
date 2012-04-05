@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--用户界面配置文件-->
+<config>
+	<!--属性等级颜色-->
+	<propLevelColors value="FFFFFF,65CDCA,80BDFA,83E573,F3EF75,FA7A71" />
+</config>

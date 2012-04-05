@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--语言包-->
+<language>
+	<!--提示消息-->
+	<item id="010001">LOLO的移动平台框架</item><!--游戏名称-->
+	
+	<!--通信-->
+	<item id="010301">解压数据失败！</item>
+	<item id="010302">转换数据失败！</item>
+	<item id="010303">请求超时，请重试！</item>
+	<item id="010304">处理请求时发生异常！[br]异常代码：{0}</item>
+	<item id="010305">通信失败！</item>
+	
+	
+<!--02未用-->
+	
+	
+	
+<!--常量-->
+	<!--时间单位-->
+	<item id="030101">天</item>
+	<item id="030102">天</item><!--复数-->
+	<item id="030103">小时</item>
+	<item id="030104">分钟</item>
+	<item id="030105">秒</item>
+	<!--时间值默认的显示方式-->
+	<item id="030201">vu</item>
+	<item id="030202">v:</item>
+	<item id="030203">v:</item>
+	<item id="030204">v</item>
+	
+	<!--Alert-->
+	<item id="030301">确定</item>
+	<item id="030302">取消</item>
+	<item id="030303">确定</item>
+	<item id="030304">取消</item>
+	<item id="030305">关闭</item>
+	<item id="030306">返回</item>
+	
+<!--模块-->
+	
+</language>
