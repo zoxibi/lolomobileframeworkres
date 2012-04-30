@@ -146,6 +146,7 @@
 	<!--水平滚动条1-->
 	<style name="hScrollBar1" style='{
 		"thumbSkin"		: "skin.HScrollBar1_Thumb",
-		"thumbMinSize"	: 13
+		"thumbMinSize"	: 13,
+		"direction"		: "horizontal"
 	}' />
 </config>
